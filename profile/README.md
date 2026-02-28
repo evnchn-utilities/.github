@@ -5,6 +5,7 @@ Small standalone utilities — file processing, browser mods, converters, and mo
 | Repository | Description | Language |
 |---|---|---|
 | [AHK-file-renamer](https://github.com/evnchn-utilities/AHK-file-renamer) | AutoHotKey script for batch file renaming | AutoHotkey |
+| [anime1.py](https://github.com/evnchn-utilities/anime1.py) | CLI access to anime1.me (beta) | Python |
 | [Canvas-mods](https://github.com/evnchn-utilities/Canvas-mods) | JavaScript QoL modifications for Canvas LMS | JavaScript |
 | [color-e-paper-processor](https://github.com/evnchn-utilities/color-e-paper-processor) | Color e-paper image processor | Python |
 | [gif-frames-view](https://github.com/evnchn-utilities/gif-frames-view) | GIF frame viewer | Python |
