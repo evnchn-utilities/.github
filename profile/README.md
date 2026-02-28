@@ -4,6 +4,7 @@ Small standalone utilities — file processing, browser mods, converters, and mo
 
 | Repository | Description | Language |
 |---|---|---|
+| [mjpeg-vnc-viewer](https://github.com/evnchn-utilities/mjpeg-vnc-viewer) | Stream VNC desktop to Kodi on Apple TV 3 via MJPEG relay | Python |
 | [AHK-file-renamer](https://github.com/evnchn-utilities/AHK-file-renamer) | AutoHotKey script for batch file renaming | AutoHotkey |
 | [anime1.py](https://github.com/evnchn-utilities/anime1.py) | CLI access to anime1.me (beta) | Python |
 | [Canvas-mods](https://github.com/evnchn-utilities/Canvas-mods) | JavaScript QoL modifications for Canvas LMS | JavaScript |
