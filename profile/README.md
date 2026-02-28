@@ -10,6 +10,7 @@ Small standalone utilities — file processing, browser mods, converters, and mo
 | [color-e-paper-processor](https://github.com/evnchn-utilities/color-e-paper-processor) | Color e-paper image processor | Python |
 | [gif-frames-view](https://github.com/evnchn-utilities/gif-frames-view) | GIF frame viewer | Python |
 | [StickerBridge](https://github.com/evnchn-utilities/StickerBridge) | Convert WhatsApp stickers to WeChat and vice versa | Python |
+| [tatsu_leaderboard](https://github.com/evnchn-utilities/tatsu_leaderboard) | Tatsu leaderboard scraper | Python |
 | [zTrimmer](https://github.com/evnchn-utilities/zTrimmer) | Trimming utility | Python |
 
 ---
